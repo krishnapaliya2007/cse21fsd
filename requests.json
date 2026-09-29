@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1711200001001",
+    "studentName": "Alex Johnson",
+    "email": "alex.johnson@campus.edu",
+    "category": "IT & Campus Wi-Fi",
+    "problemDescription": "Wi-Fi connectivity drops intermittently in the central library 2nd floor reading hall.",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-09-28T03:30:00.000Z"
+  },
+  {
+    "id": "1711200001002",
+    "studentName": "Sophia Rodriguez",
+    "email": "sophia.r@campus.edu",
+    "category": "Hostel & Accommodation",
+    "problemDescription": "Hot water supply in Block B 3rd floor washrooms has been disrupted since yesterday morning.",
+    "priority": "Urgent",
+    "status": "Pending",
+    "createdAt": "2026-09-28T03:45:00.000Z"
+  },
+  {
+    "id": "1711200001003",
+    "studentName": "David Chen",
+    "email": "david.chen@campus.edu",
+    "category": "Academic Support",
+    "problemDescription": "Requesting grade review for Data Structures assignment 3 as the uploaded test cases did not run.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-09-28T02:15:00.000Z"
+  },
+  {
+    "id": "1790573769584",
+    "studentName": "Test User",
+    "email": "test@example.com",
+    "category": "Academic",
+    "problemDescription": "Issue description",
+    "priority": "High"
+  },
+  {
+    "id": "1790574223391",
+    "studentName": "Test User2",
+    "email": "test2@example.com",
+    "category": "Academic",
+    "problemDescription": "This is a test issue",
+    "priority": "High"
+  }
+]
